@@ -1,6 +1,6 @@
-# (Dataset)[https://drive.google.com/drive/folders/1vweVB7b8274A_qQYQSvVCOztdz-Td3HK?usp=sharing]
+# [Dataset](https://drive.google.com/drive/folders/1vweVB7b8274A_qQYQSvVCOztdz-Td3HK?usp=sharing0
 
-Thanks to (HAGRID)[https://github.com/hukenovs/hagrid] for sharing the dataset. Have a look at their project!
+Thanks to [HAGRID](https://github.com/hukenovs/hagrid) for sharing the dataset. Have a look at their project!
 
 # Machine-Learning-Project
 
